@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: PropsData
+  m_EditorClassIdentifier: Assembly-CSharp::PropsData
+  medicines:
+  - {fileID: 11400000, guid: a300ade8626f65a44b912f2734ed3e75, type: 2}
+  - {fileID: 11400000, guid: 2342c691ef45ea243811135d6ff68b8d, type: 2}
+  materials: []

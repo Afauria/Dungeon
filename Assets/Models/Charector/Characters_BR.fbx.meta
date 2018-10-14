@@ -1,0 +1,244 @@
+fileFormatVersion: 2
+guid: 6c958412b7f9c4a4babcf13038821ef3
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Ankle_L
+    100002: Ankle_R
+    100004: Ball_L
+    100006: Ball_R
+    100008: Character_BarbarianGiant_01
+    100010: Character_Big_Ork_01
+    100012: Character_Dwarf_01
+    100014: Character_ElementalGolem_01
+    100016: Character_FortGolem_01
+    100018: Character_MechanicalGolem_01
+    100020: Character_MutantGuy_01
+    100022: Character_Pig_Butcher_01
+    100024: Character_RedDemon_01
+    100026: Character_Slayer_01
+    100028: Character_Troll_01
+    100030: //RootNode
+    100032: Clavicle_L
+    100034: Clavicle_R
+    100036: Elbow_L
+    100038: Elbow_R
+    100040: Eyebrows
+    100042: Eyes
+    100044: Finger_01
+    100046: Finger_01 1
+    100048: Finger_02
+    100050: Finger_02 1
+    100052: Finger_03
+    100054: Finger_03 1
+    100056: Finger_04
+    100058: Finger_04 1
+    100060: Hand_L
+    100062: Hand_R
+    100064: Head
+    100066: Hips
+    100068: IndexFinger_01
+    100070: IndexFinger_01 1
+    100072: IndexFinger_02
+    100074: IndexFinger_02 1
+    100076: IndexFinger_03
+    100078: IndexFinger_03 1
+    100080: IndexFinger_04
+    100082: IndexFinger_04 1
+    100084: LowerLeg_L
+    100086: LowerLeg_R
+    100088: Neck
+    100090: Root
+    100092: Shoulder_L
+    100094: Shoulder_R
+    100096: Spine_01
+    100098: Spine_02
+    100100: Spine_03
+    100102: Thumb_01
+    100104: Thumb_01 1
+    100106: Thumb_02
+    100108: Thumb_02 1
+    100110: Thumb_03
+    100112: Thumb_03 1
+    100114: Toes_L
+    100116: Toes_R
+    100118: UpperLeg_L
+    100120: UpperLeg_R
+    400000: Ankle_L
+    400002: Ankle_R
+    400004: Ball_L
+    400006: Ball_R
+    400008: Character_BarbarianGiant_01
+    400010: Character_Big_Ork_01
+    400012: Character_Dwarf_01
+    400014: Character_ElementalGolem_01
+    400016: Character_FortGolem_01
+    400018: Character_MechanicalGolem_01
+    400020: Character_MutantGuy_01
+    400022: Character_Pig_Butcher_01
+    400024: Character_RedDemon_01
+    400026: Character_Slayer_01
+    400028: Character_Troll_01
+    400030: //RootNode
+    400032: Clavicle_L
+    400034: Clavicle_R
+    400036: Elbow_L
+    400038: Elbow_R
+    400040: Eyebrows
+    400042: Eyes
+    400044: Finger_01
+    400046: Finger_01 1
+    400048: Finger_02
+    400050: Finger_02 1
+    400052: Finger_03
+    400054: Finger_03 1
+    400056: Finger_04
+    400058: Finger_04 1
+    400060: Hand_L
+    400062: Hand_R
+    400064: Head
+    400066: Hips
+    400068: IndexFinger_01
+    400070: IndexFinger_01 1
+    400072: IndexFinger_02
+    400074: IndexFinger_02 1
+    400076: IndexFinger_03
+    400078: IndexFinger_03 1
+    400080: IndexFinger_04
+    400082: IndexFinger_04 1
+    400084: LowerLeg_L
+    400086: LowerLeg_R
+    400088: Neck
+    400090: Root
+    400092: Shoulder_L
+    400094: Shoulder_R
+    400096: Spine_01
+    400098: Spine_02
+    400100: Spine_03
+    400102: Thumb_01
+    400104: Thumb_01 1
+    400106: Thumb_02
+    400108: Thumb_02 1
+    400110: Thumb_03
+    400112: Thumb_03 1
+    400114: Toes_L
+    400116: Toes_R
+    400118: UpperLeg_L
+    400120: UpperLeg_R
+    2100000: lambert11
+    2100002: lambert12
+    2100004: lambert13
+    2100006: lambert14
+    2100008: lambert15
+    2100010: lambert16
+    2100012: lambert18
+    2100014: lambert17
+    2100016: lambert20
+    2100018: lambert21
+    2100020: lambert22
+    4300000: Character_BarbarianGiant_01
+    4300002: Character_ElementalGolem_01
+    4300004: Character_FortGolem_01
+    4300006: Character_Troll_01
+    4300008: Character_RedDemon_01
+    4300010: Character_Big_Ork_01
+    4300012: Character_Pig_Butcher_01
+    4300014: Character_Slayer_01
+    4300016: Character_MechanicalGolem_01
+    4300018: Character_MutantGuy_01
+    4300020: Character_Dwarf_01
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Character_BarbarianGiant_01
+    13700002: Character_Big_Ork_01
+    13700004: Character_Dwarf_01
+    13700006: Character_ElementalGolem_01
+    13700008: Character_FortGolem_01
+    13700010: Character_MechanicalGolem_01
+    13700012: Character_MutantGuy_01
+    13700014: Character_Pig_Butcher_01
+    13700016: Character_RedDemon_01
+    13700018: Character_Slayer_01
+    13700020: Character_Troll_01
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

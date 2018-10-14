@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cf4c2afd4025584faef82ebf2dcf717, type: 3}
+  m_Name: ModelEntity03
+  m_EditorClassIdentifier: 
+  modelType: 2
+  model: {fileID: 1286096282395510, guid: 55289e52a92455a49ad888e1cb87a67f, type: 2}
+  headPic: {fileID: 21300000, guid: b409ccc024334fa4bb897ed7d0614e4f, type: 3}
+  intro: "\u6797\u4E4B\u7075\uFF0C\u4E16\u4EE3\u5B88\u62A4\u68EE\u6797\uFF0C\u540C\u65F6\u662F\u4E00\u540D\u4F18\u79C0\u7684\u533B\u5E08\uFF0C\u9762\u5177\u4E0B\u662F\u4E00\u9897\u5584\u826F\u6E29\u67D4\u7684\u5FC3"

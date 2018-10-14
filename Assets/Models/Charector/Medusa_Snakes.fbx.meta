@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: bde82a816d5a03047a404e175810a505
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Character_MedusaSnakes_01
+    100002: //RootNode
+    100004: Root1
+    100006: Snake_01A
+    100008: Snake_01B
+    100010: Snake_01C
+    100012: Snake_01D
+    100014: Snake_01E
+    100016: Snake_01F
+    100018: Snake_02A
+    100020: Snake_02B
+    100022: Snake_02C
+    100024: Snake_02D
+    100026: Snake_02E
+    100028: Snake_03A
+    100030: Snake_03B
+    100032: Snake_03C
+    100034: Snake_03D
+    100036: Snake_03E
+    100038: Snake_04A
+    100040: Snake_04B
+    100042: Snake_04C
+    100044: Snake_04D
+    100046: Snake_04E
+    100048: Snake_04F
+    100050: Snake_05A
+    100052: Snake_05B
+    100054: Snake_05C
+    100056: Snake_05D
+    100058: Snake_05E
+    400000: Character_MedusaSnakes_01
+    400002: //RootNode
+    400004: Root1
+    400006: Snake_01A
+    400008: Snake_01B
+    400010: Snake_01C
+    400012: Snake_01D
+    400014: Snake_01E
+    400016: Snake_01F
+    400018: Snake_02A
+    400020: Snake_02B
+    400022: Snake_02C
+    400024: Snake_02D
+    400026: Snake_02E
+    400028: Snake_03A
+    400030: Snake_03B
+    400032: Snake_03C
+    400034: Snake_03D
+    400036: Snake_03E
+    400038: Snake_04A
+    400040: Snake_04B
+    400042: Snake_04C
+    400044: Snake_04D
+    400046: Snake_04E
+    400048: Snake_04F
+    400050: Snake_05A
+    400052: Snake_05B
+    400054: Snake_05C
+    400056: Snake_05D
+    400058: Snake_05E
+    2100000: lambert11
+    4300000: Character_MedusaSnakes_01
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Character_MedusaSnakes_01
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82904ff39fc19144d8d900a3f14a82d6, type: 3}
+  m_Name: Skill_Type5_06
+  m_EditorClassIdentifier: 
+  skillType: 4
+  skillName: "\u6BD2\u7D20\u6FC0\u53D1"
+  skillIcon: {fileID: 21300000, guid: 1df52649c91b4af4d9ffff9edb0d5df2, type: 3}
+  coldTime: 3
+  pointCount: 2
+  description: "\u5BF9\u4E00\u540D\u654C\u4EBA\u9020\u6210\u7269\u7406\u4F24\u5BB3\uFF0C\u9644\u52A0\u6BD2\u7D20\u4F24\u5BB3\uFF0C\u5E76\u5EF6\u957F\u76EE\u6807\u4E2D\u6BD2\u6301\u7EED\u56DE\u5408\u3002"
+  preSkill: {fileID: 11400000, guid: 0bdc2144e9d8a5548ba05318d832e5c3, type: 2}
+  damageRate: 1
+  effect: {fileID: 0}

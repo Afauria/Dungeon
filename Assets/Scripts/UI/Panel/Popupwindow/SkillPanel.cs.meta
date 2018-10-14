@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3ae1bd56ef8a1cd4faeff31e2a1e52dd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - initedObj: {instanceID: 0}
+  - objTrans: {instanceID: 0}
+  - skillsPack: {fileID: 11400000, guid: ca5eb344aa347d94eb84f340f3282f50, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

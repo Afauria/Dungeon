@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20fcf5eee7c29aa418f19f8bb45c8d08, type: 3}
+  m_Name: Equip_Weapon_01
+  m_EditorClassIdentifier: 
+  equipType: 3
+  equipName: "\u9489\u9524"
+  typeName: "\u6B66\u5668"
+  description: "\u4E2D\u4E16\u7EAA\u9F0E\u76DB\u65F6\u671F\u6700\u4E3A\u4F18\u79C0\u7684\u6B66\u5668\u4E4B\u4E00\uFF0C\u949D\u51FB\u6B66\u5668\u91CC\u6570\u4E00\u6570\u4E8C\u7684\u5B58\u5728\uFF0C\u5341\u5206\u514B\u5236\u94E0\u7532\u3002\u671D\u7740\u5934\u4E00\u9524\u5B50\u4E0B\u53BB\uFF0C\u4E13\u6CBB\u5404\u79CD\u4E0D\u670D\u3002"
+  equipIcon: {fileID: 21300000, guid: ac1890b54ea9a6c4784069eea81d9161, type: 3}
+  lowerValue: 250
+  distance: 3
+  ability: "\u8FD1\u6218\u7269\u7406\u653B\u51FB\uFF1A12~18"
+  baseAbility1: "\u4F53\u8D28+2"
+  baseAbility2: 
+  baseAbility3: 

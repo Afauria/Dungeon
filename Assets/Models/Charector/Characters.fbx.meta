@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: 91a5272e185759745afac7f2c9d53476
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Ankle_L
+    100002: Ankle_R
+    100004: Ball_L
+    100006: Ball_R
+    100008: Character_Ancient_Warrior_01
+    100010: Character_AncientQueen_01
+    100012: Character_DarkElf_01
+    100014: Character_EvilGod_01
+    100016: Character_ForestGuardian_01
+    100018: Character_ForestWitch_01
+    100020: Character_Medusa_01
+    100022: Character_Mystic_01
+    100024: Character_SpiritDemon
+    100026: Character_SpiritDemon_Glow
+    100028: //RootNode
+    100030: Clavicle_L
+    100032: Clavicle_R
+    100034: Elbow_L
+    100036: Elbow_R
+    100038: Eyebrows
+    100040: Eyes
+    100042: Finger_01
+    100044: Finger_01 1
+    100046: Finger_02
+    100048: Finger_02 1
+    100050: Finger_03
+    100052: Finger_03 1
+    100054: Finger_04
+    100056: Finger_04 1
+    100058: Hand_L
+    100060: Hand_R
+    100062: Head
+    100064: Hips
+    100066: IndexFinger_01
+    100068: IndexFinger_01 1
+    100070: IndexFinger_02
+    100072: IndexFinger_02 1
+    100074: IndexFinger_03
+    100076: IndexFinger_03 1
+    100078: IndexFinger_04
+    100080: IndexFinger_04 1
+    100082: LowerLeg_L
+    100084: LowerLeg_R
+    100086: Neck
+    100088: Root
+    100090: Shoulder_L
+    100092: Shoulder_R
+    100094: Spine_01
+    100096: Spine_02
+    100098: Spine_03
+    100100: Thumb_01
+    100102: Thumb_01 1
+    100104: Thumb_02
+    100106: Thumb_02 1
+    100108: Thumb_03
+    100110: Thumb_03 1
+    100112: Toes_L
+    100114: Toes_R
+    100116: UpperLeg_L
+    100118: UpperLeg_R
+    400000: Ankle_L
+    400002: Ankle_R
+    400004: Ball_L
+    400006: Ball_R
+    400008: Character_Ancient_Warrior_01
+    400010: Character_AncientQueen_01
+    400012: Character_DarkElf_01
+    400014: Character_EvilGod_01
+    400016: Character_ForestGuardian_01
+    400018: Character_ForestWitch_01
+    400020: Character_Medusa_01
+    400022: Character_Mystic_01
+    400024: Character_SpiritDemon
+    400026: Character_SpiritDemon_Glow
+    400028: //RootNode
+    400030: Clavicle_L
+    400032: Clavicle_R
+    400034: Elbow_L
+    400036: Elbow_R
+    400038: Eyebrows
+    400040: Eyes
+    400042: Finger_01
+    400044: Finger_01 1
+    400046: Finger_02
+    400048: Finger_02 1
+    400050: Finger_03
+    400052: Finger_03 1
+    400054: Finger_04
+    400056: Finger_04 1
+    400058: Hand_L
+    400060: Hand_R
+    400062: Head
+    400064: Hips
+    400066: IndexFinger_01
+    400068: IndexFinger_01 1
+    400070: IndexFinger_02
+    400072: IndexFinger_02 1
+    400074: IndexFinger_03
+    400076: IndexFinger_03 1
+    400078: IndexFinger_04
+    400080: IndexFinger_04 1
+    400082: LowerLeg_L
+    400084: LowerLeg_R
+    400086: Neck
+    400088: Root
+    400090: Shoulder_L
+    400092: Shoulder_R
+    400094: Spine_01
+    400096: Spine_02
+    400098: Spine_03
+    400100: Thumb_01
+    400102: Thumb_01 1
+    400104: Thumb_02
+    400106: Thumb_02 1
+    400108: Thumb_03
+    400110: Thumb_03 1
+    400112: Toes_L
+    400114: Toes_R
+    400116: UpperLeg_L
+    400118: UpperLeg_R
+    2100000: A20
+    2100002: lambert2
+    2100004: lambert9
+    2100006: lambert10
+    2100008: lambert11
+    2100010: _Ghost
+    2100012: lambert12
+    2100014: lambert13
+    2100016: lambert14
+    2100018: lambert15
+    4300000: Character_Mystic_01
+    4300002: Character_EvilGod_01
+    4300004: Character_AncientQueen_01
+    4300006: Character_Ancient_Warrior_01
+    4300008: Character_Medusa_01
+    4300010: Character_SpiritDemon_Glow
+    4300012: Character_SpiritDemon
+    4300014: Character_DarkElf_01
+    4300016: Character_ForestWitch_01
+    4300018: Character_ForestGuardian_01
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Character_Ancient_Warrior_01
+    13700002: Character_AncientQueen_01
+    13700004: Character_DarkElf_01
+    13700006: Character_EvilGod_01
+    13700008: Character_ForestGuardian_01
+    13700010: Character_ForestWitch_01
+    13700012: Character_Medusa_01
+    13700014: Character_Mystic_01
+    13700016: Character_SpiritDemon
+    13700018: Character_SpiritDemon_Glow
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
